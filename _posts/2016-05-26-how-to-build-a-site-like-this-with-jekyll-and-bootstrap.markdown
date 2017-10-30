@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      使用Jekyll和Bootstrap，创建一个静态网站
-author:     杨勇海
-date:       2016-05-26 08:13:00 +0800
+author:     李蕊
+date:       2016-05-26 08:13:00 +0800
 categories: notes
 tags:       Bootstrap Jekyll
 mediaImage: images/jekyll-blog.png
